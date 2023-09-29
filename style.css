@@ -1,0 +1,73 @@
+body {
+
+        font-family: Arial;
+        margin: 0;
+       padding: 0;
+
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            border: black 8px solid;
+            height: 80px;
+        }   
+
+
+        nav {
+            padding: 6px;
+            background-color: grey;
+            text-align: center;
+            height: 30px;
+        }
+
+        nav a {
+                text-decoration: none;
+             
+               
+            
+        }
+
+        .container {
+                width: 850px;
+                border-radius: 5px;
+                margin: auto;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+       
+        }
+
+        .box {
+        
+                   background-color: rgb(91, 199, 241);
+                   height:40px;
+                   
+                   text-align: center;
+                   border: 5px solid;
+                   color: white;
+        }
+
+        .red-box {
+                background: red;
+               
+                text-align: center;
+                
+                
+        }
+
+        .green-box {
+                background: green;
+              
+                text-align: center;
+
+        }
+
+        .blue-box {
+            
+                background: rgb(14, 14, 230);
+              
+                text-align: center;
+                
+                
+        }
